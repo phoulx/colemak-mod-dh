@@ -26,6 +26,24 @@
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>
+	<key>KLInfo_Colemak DH Wide</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>io.github.colemakmods.keyboardlayout.colemakdh.colemakdhwide</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_Colemak DH Wide - Extended</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>io.github.colemakmods.keyboardlayout.colemakdh.colemakdhwide-extended</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_Colemak DH ISO</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
