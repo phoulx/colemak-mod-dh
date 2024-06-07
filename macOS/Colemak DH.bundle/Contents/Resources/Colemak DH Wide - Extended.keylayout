@@ -66,13 +66,13 @@
             <key code="21" output="4" />
             <key code="22" action="85" />
             <key code="23" action="83" />
-            <key code="24" output="=" />
-            <key code="29" output="9" />
-            <key code="28" action="86" />
+            <key code="28" output="=" />
+            <key code="27" output="9" />
+            <key code="25" action="86" />
             <key code="45" output="-" />
-            <key code="25" action="88" />
-            <key code="27" output="0" />
-            <key code="4" output="]" />
+            <key code="29" action="88" />
+            <key code="24" output="0" />
+            <key code="26" output="]" />
             <key code="39" action="55" />
             <key code="31" action="67" />
             <key code="16" output="[" />
@@ -84,7 +84,7 @@
             <key code="30" action="90" />
             <key code="46" action="47" />
             <key code="33" output=";" />
-            <key code="26" output="\" />
+            <key code="4" output="\" />
             <key code="47" output="," />
             <key code="42" output="/" />
             <key code="40" action="53" />
@@ -175,13 +175,13 @@
             <key code="21" output="$" />
             <key code="22" action="84" />
             <key code="23" action="82" />
-            <key code="24" output="+" />
-            <key code="29" output="(" />
-            <key code="28" action="100" />
+            <key code="28" output="+" />
+            <key code="27" output="(" />
+            <key code="25" action="100" />
             <key code="45" output="_" />
-            <key code="25" action="87" />
-            <key code="27" output=")" />
-            <key code="4" output="}" />
+            <key code="29" action="87" />
+            <key code="24" output=")" />
+            <key code="26" output="}" />
             <key code="39" action="54" />
             <key code="31" action="66" />
             <key code="16" output="{" />
@@ -193,7 +193,7 @@
             <key code="30" action="89" />
             <key code="46" action="46" />
             <key code="33" output=":" />
-            <key code="26" output="|" />
+            <key code="4" output="|" />
             <key code="47" output="&#x003C;" />
             <key code="42" output="?" />
             <key code="40" action="52" />
@@ -284,13 +284,13 @@
             <key code="21" output="4" />
             <key code="22" action="85" />
             <key code="23" action="83" />
-            <key code="24" output="=" />
-            <key code="29" output="9" />
-            <key code="28" action="86" />
+            <key code="28" output="=" />
+            <key code="27" output="9" />
+            <key code="25" action="86" />
             <key code="45" output="-" />
-            <key code="25" action="88" />
-            <key code="27" output="0" />
-            <key code="4" output="]" />
+            <key code="29" action="88" />
+            <key code="24" output="0" />
+            <key code="26" output="]" />
             <key code="39" action="54" />
             <key code="31" action="66" />
             <key code="16" output="[" />
@@ -302,7 +302,7 @@
             <key code="30" action="90" />
             <key code="46" action="46" />
             <key code="33" output=";" />
-            <key code="26" output="\" />
+            <key code="4" output="\" />
             <key code="47" output="," />
             <key code="42" output="/" />
             <key code="40" action="52" />
@@ -393,13 +393,13 @@
             <key code="21" output="¢" />
             <key code="22" action="2" />
             <key code="23" output="§" />
-            <key code="24" output="≠" />
-            <key code="29" output="ª" />
-            <key code="28" output="¶" />
+            <key code="28" output="≠" />
+            <key code="27" output="ª" />
+            <key code="25" output="¶" />
             <key code="45" output="–" />
-            <key code="25" output="•" />
-            <key code="27" output="º" />
-            <key code="4" action="98" />
+            <key code="29" output="•" />
+            <key code="24" output="º" />
+            <key code="26" action="98" />
             <key code="39" action="94" />
             <key code="31" action="3" />
             <key code="16" action="99" />
@@ -411,7 +411,7 @@
             <key code="30" action="92" />
             <key code="46" action="12" />
             <key code="33" output="…" />
-            <key code="26" output="«" />
+            <key code="4" output="«" />
             <key code="47" output="≤" />
             <key code="42" output="÷" />
             <key code="40" action="4" />
@@ -502,13 +502,13 @@
             <key code="21" output="›" />
             <key code="22" output="̂" />
             <key code="23" output="†" />
-            <key code="24" output="±" />
-            <key code="29" output="·" />
-            <key code="28" output="‡" />
+            <key code="28" output="±" />
+            <key code="27" output="·" />
+            <key code="25" output="‡" />
             <key code="45" output="—" />
-            <key code="25" output="°" />
-            <key code="27" output="‚" />
-            <key code="4" action="97" />
+            <key code="29" output="°" />
+            <key code="24" output="‚" />
+            <key code="26" action="97" />
             <key code="39" action="93" />
             <key code="31" output="̈" />
             <key code="16" output="”" />
@@ -520,7 +520,7 @@
             <key code="30" action="91" />
             <key code="46" output="̊" />
             <key code="33" action="16" />
-            <key code="26" output="»" />
+            <key code="4" output="»" />
             <key code="47" output="„" />
             <key code="42" output="¿" />
             <key code="40" output="̃" />
@@ -611,13 +611,13 @@
             <key code="21" output="¢" />
             <key code="22" action="2" />
             <key code="23" output="§" />
-            <key code="24" output="≠" />
-            <key code="29" output="ª" />
-            <key code="28" output="¶" />
+            <key code="28" output="≠" />
+            <key code="27" output="ª" />
+            <key code="25" output="¶" />
             <key code="45" output="–" />
-            <key code="25" output="•" />
-            <key code="27" output="º" />
-            <key code="4" action="98" />
+            <key code="29" output="•" />
+            <key code="24" output="º" />
+            <key code="26" action="98" />
             <key code="39" action="93" />
             <key code="31" action="3" />
             <key code="16" action="99" />
@@ -629,7 +629,7 @@
             <key code="30" action="91" />
             <key code="46" action="12" />
             <key code="33" output="…" />
-            <key code="26" output="«" />
+            <key code="4" output="«" />
             <key code="47" output="≤" />
             <key code="42" output="÷" />
             <key code="40" action="4" />
@@ -720,13 +720,13 @@
             <key code="21" output="¢" />
             <key code="22" output="ˆ" />
             <key code="23" output="§" />
-            <key code="24" output="≠" />
-            <key code="29" output="ª" />
-            <key code="28" output="¶" />
+            <key code="28" output="≠" />
+            <key code="27" output="ª" />
+            <key code="25" output="¶" />
             <key code="45" output="–" />
-            <key code="25" output="•" />
-            <key code="27" output="º" />
-            <key code="4" action="98" />
+            <key code="29" output="•" />
+            <key code="24" output="º" />
+            <key code="26" action="98" />
             <key code="39" action="94" />
             <key code="31" output="¨" />
             <key code="16" action="99" />
@@ -738,7 +738,7 @@
             <key code="30" action="92" />
             <key code="46" output="˚" />
             <key code="33" output="…" />
-            <key code="26" output="«" />
+            <key code="4" output="«" />
             <key code="47" output="≤" />
             <key code="42" output="÷" />
             <key code="40" output="˜" />
@@ -829,13 +829,13 @@
             <key code="21" output="4" />
             <key code="22" output="6" />
             <key code="23" output="5" />
-            <key code="24" output="=" />
-            <key code="29" output="9" />
-            <key code="28" output="7" />
+            <key code="28" output="=" />
+            <key code="27" output="9" />
+            <key code="25" output="7" />
             <key code="45" output="&#x001F;" />
-            <key code="25" output="8" />
-            <key code="27" output="0" />
-            <key code="4" output="&#x001D;" />
+            <key code="29" output="8" />
+            <key code="24" output="0" />
+            <key code="26" output="&#x001D;" />
             <key code="39" output="&#x000F;" />
             <key code="31" output="&#x0015;" />
             <key code="16" output="&#x001B;" />
@@ -847,7 +847,7 @@
             <key code="30" output="&#x0027;" />
             <key code="46" output="&#x000B;" />
             <key code="33" output=";" />
-            <key code="26" output="&#x001C;" />
+            <key code="4" output="&#x001C;" />
             <key code="47" output="," />
             <key code="42" output="/" />
             <key code="40" output="&#x000E;" />
@@ -916,11 +916,11 @@
     </keyMapSet>
     <keyMapSet id="984">
         <keyMap index="0" baseMapSet="16c" baseIndex="0">
-            <key code="24" action="84" />
-            <key code="4" output="[" />
+            <key code="28" action="84" />
+            <key code="26" output="[" />
             <key code="16" action="78" />
             <key code="30" output=":" />
-            <key code="26" output="]" />
+            <key code="4" output="]" />
             <key code="93" output="¥" />
             <key code="94" output="_" />
             <key code="95" output="," />
@@ -930,17 +930,17 @@
         <keyMap index="1" baseMapSet="16c" baseIndex="1">
             <key code="19" action="89" />
             <key code="22" action="100" />
-            <key code="24" output="~" />
-            <key code="29" output=")" />
-            <key code="28" action="90" />
+            <key code="28" output="~" />
+            <key code="27" output=")" />
+            <key code="25" action="90" />
             <key code="45" output="=" />
-            <key code="25" output="(" />
-            <key code="27" output="0" />
-            <key code="4" output="{" />
+            <key code="29" output="(" />
+            <key code="24" output="0" />
+            <key code="26" output="{" />
             <key code="16" output="`" />
             <key code="30" action="87" />
             <key code="33" output="+" />
-            <key code="26" output="}" />
+            <key code="4" output="}" />
             <key code="93" output="|" />
             <key code="94" output="_" />
             <key code="95" output="," />
@@ -948,11 +948,11 @@
             <key code="104" action="25" />
         </keyMap>
         <keyMap index="2" baseMapSet="16c" baseIndex="2">
-            <key code="24" action="84" />
-            <key code="4" output="[" />
+            <key code="28" action="84" />
+            <key code="26" output="[" />
             <key code="16" action="78" />
             <key code="30" output=":" />
-            <key code="26" output="]" />
+            <key code="4" output="]" />
             <key code="93" output="¥" />
             <key code="94" output="_" />
             <key code="95" output="," />
